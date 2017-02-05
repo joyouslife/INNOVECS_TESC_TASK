@@ -1,0 +1,1 @@
+[05-Feb-2017 18:20:28 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/iteambiz/inoveks-test-click.iteam.biz.ua/services/EventsService.php on line 57
